@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "d3vboot"
+  name             : "Snowscan"
   avatar           : "/assets/images/avatar.png"
   bio              : "Systems Engineer, Pentester, CTF player<br>HackTheBox"
   location         : "Colombia"
