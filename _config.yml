@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "D3vboot"
+  name             : "d3vboot"
   avatar           : "/assets/images/avatar.png"
   bio              : "Systems Engineer, Pentester, CTF player<br>HackTheBox"
   location         : "Colombia"
@@ -117,7 +117,7 @@ author:
   github           : "devboot"
   gitlab           :
   google_plus      :
-  keybase          : "devbooot"
+  keybase          : "devboot"
   instagram        :
   lastfm           :
   linkedin         : "juanjaramillob" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
